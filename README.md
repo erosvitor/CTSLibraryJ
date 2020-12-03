@@ -2,7 +2,7 @@
 
 ## Description
 
-The CTSLibraryJ is a resources library to conversion, validation and formatting.
+The CTSLibraryJ is a Java project that contens several routines to manipulation of strings and numbers.
 
 ## Features of Library
 
