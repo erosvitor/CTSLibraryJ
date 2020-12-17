@@ -59,6 +59,7 @@
           <nonavbar>true</nonavbar>
           <notree>true</notree>
           <windowtitle>CTSLibraryJ</windowtitle>
+          <destDir>${project.basedir}/docs</destDir>
         </configuration>
         <executions>
           <execution>
