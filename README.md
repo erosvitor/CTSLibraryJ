@@ -18,9 +18,9 @@ The CTSLibraryJ is a Java project that contens several routines to manipulation 
 + Formatting of values
 + Validation of values
 
-## Screenshot
+## Documentation
 
-![](javadoc-main.png)
+https://erosvitor.github.io/CTSLibraryJ/
 
 ## Release history
 
