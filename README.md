@@ -24,5 +24,5 @@ https://erosvitor.github.io/CTSLibraryJ/
 
 ## Release history
 
-* 1.0.0
+* 1.0.0 (2020-11-27)
     * First release
