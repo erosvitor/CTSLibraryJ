@@ -4,11 +4,15 @@
 
 The CTSLibraryJ is a Java project that contens several routines to manipulation of strings and numbers.
 
-## Features of Library
+## Technologies
 
-* Use Apache Maven as manager build
-* Javadoc tool to generate library documentation
-* Unit tests with JUnit framework
+The CTSLibraryJ project uses the following:
+
+* Java 11 (as programming language)
+* Apache Maven 3 (as build manager)
+* Javadoc (as documentation generator)
+* JUnit 4 (as unit test framework)
+* Eclipse 2020 (as integrated development environment)
 
 ## Resources of Library
 
