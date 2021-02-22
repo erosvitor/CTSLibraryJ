@@ -26,6 +26,9 @@ The CTSLibraryJ project uses the following:
 
 https://erosvitor.github.io/CTSLibraryJ/
 
+## Project status
+The project is finished without pending issues.
+
 ## Release history
 
 * 1.0.0 (2020-11-27)
