@@ -1,5 +1,5 @@
 ## About
-The project shows how to create a function library in Java. The project contains unit tests and automatic generation of documentation using Javadoc.
+Function library in Java with automatic generation of documentation using Javadoc.
 
 ## Features
 + Conversion of values
